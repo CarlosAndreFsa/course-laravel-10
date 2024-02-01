@@ -1,4 +1,5 @@
-# Curso GRATUITO de Laravel 10.x
+# Curso GRATUITO de Laravel 10.x 
+
 
 - :movie_camera: [Acesse o Curso](https://academy.especializati.com.br/curso/laravel-10-gratuito).
 
